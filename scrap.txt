@@ -1,0 +1,13 @@
+Randomly chosen numbers and their corresponding entries:
+11 |  Bijective: 
+
+
+27 |  Rank & Nullity.: 
+
+
+30 |  B-matrix: 
+
+
+35 |  Orthogonal Transformation: 
+
+
